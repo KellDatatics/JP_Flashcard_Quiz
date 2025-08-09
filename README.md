@@ -42,8 +42,7 @@ Follow the prompts to select JLPT level and quiz type.
 ## 📸 Sample Outputs
 
 **Main Menu**
-![Main Menu](<img width="776" height="513" alt="main_menu" src="https://github.com/user-attachments/assets/dbe4de33-0f37-410b-bb9c-ee477742c850" />
-)
+![Main Menu](images/main_menu.png)
 
 **Example Correct Answer**
 ![Correct Answer](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20correct%20answer.png?raw=true)
