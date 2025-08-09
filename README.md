@@ -39,8 +39,21 @@ N4,必要,ひつよう,hitsuyou,necessary
 python jp_flashcards.py
 Follow the prompts to select JLPT level and quiz type.
 
+## 📸 Sample Outputs
+
+**Main Menu**
+![Main Menu](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/main%20menu.png?raw=true)
+
+**Example Correct Answer**
+![Correct Answer](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20correct%20answer.png?raw=true)
+
+**Example Incorrect Answer**
+![Incorrect Answer](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20incorrect%20answer.png?raw=true)
+
+**Example Final Score**
+![Final Score](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20final%20score.png?raw=true)
+
 🛠️ Built With
 Python 3
 csv and random modules
 Simple text-based interface
-
