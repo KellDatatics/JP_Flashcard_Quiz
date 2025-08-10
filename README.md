@@ -35,30 +35,34 @@ N4,必要,ひつよう,hitsuyou,necessary
 2. Place `vocab1.csv` in the same folder as `jp_flashcards.py`.
 3. Open your terminal and run:
 
-```markdown
+
 ```bash
 python jp_flashcards.py
-
+```
 Follow the prompts to select JLPT level and quiz type.
 
 ## 📸 Sample Outputs
 
 **Main Menu**
-![Main Menu](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/main_menu.png?raw=true)
-![Main Menu](images/main menu.png)
-![Main Menu](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/main_menu.png)
+
+![Main Menu](images/main_menu.png)
 
 
 **Example Correct Answer**
-![Correct Answer](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20correct%20answer.png?raw=true)
+
+![Correct Answer](images/example_correct_answer.png)
 
 **Example Incorrect Answer**
-![Incorrect Answer](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20incorrect%20answer.png?raw=true)
+
+![Incorrect Answer](images/example_incorrect_answer.png)
 
 **Example Final Score**
-![Final Score](https://github.com/KellDatatics/JP_Flashcard_Quiz/blob/main/images/example%20final%20score.png?raw=true)
 
+![Final Score](images/example_final_score.png)
+
+```
 🛠️ Built With
 Python 3
 csv and random modules
 Simple text-based interface
+```
